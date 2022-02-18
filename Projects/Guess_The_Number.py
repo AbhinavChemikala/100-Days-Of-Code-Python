@@ -34,7 +34,6 @@ user_lives = choose_difficulty()
 print(f"pstt the answer is {main_number}")
 
 should_continue = True
-
 while should_continue and user_lives > 0:
     print(f"You have {user_lives} attempts remaining to guess the number.")
     user_guess = int(input("Make a guess: "))
