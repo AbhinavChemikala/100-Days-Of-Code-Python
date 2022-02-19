@@ -1,5 +1,3 @@
 .DS_Store
-Projects/Hangman/__pycache__/hangman_art.cpython-39.pyc
-Projects/Hangman/__pycache__/hangman_words.cpython-39.pyc
-Projects/Caesar_Cipher/__pycache__/art.cpython-39.pyc
-Projects/Caesar_Cipher/__pycache__/art.cpython-310.pyc
+
+*__pycache__
